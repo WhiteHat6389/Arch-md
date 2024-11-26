@@ -1,7 +1,7 @@
 /*
- * Base By Ednut
+ * Base By कर्ण 
  * Created On 11/10/2024
- * Contact Me on wa.me/2348102487241
+ * Contact Me on wa.me/918400126837
 */
 require("./config.js")
 const {
